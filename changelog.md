@@ -10,6 +10,25 @@
 | spacedock  | (https://spacedock.info/mod/3129)                                 |
 | ckan       | RadialOmniSeparator                                               |
 
+## Version 1.0.1.0-release - `<EDITION>`
+
+* 01 Oct 2021
+* Released for Kerbal Space Program 1.12.3
+
+### Summary 1.0.1.0
+
+### Update 1.0.1.0
+
+### Status 1.0.1.0
+
+* Issues
+  * closes #31 - Radial Omni Separator (ROS) 1.0.1.0-release `<EDITION>`
+  * closes #32 - 1.0.1.0 Verify Legal Mumbo Jumbo
+  * closes #33 - 1.0.1.0 Update Documentation
+  * closes #34 - 1.0.1.0 Update Social Media
+
+---
+
 ## Version 1.0.0.1-release - `<MattNot Separatore Radiale Omnia>`
 
 * 05 Oct 2021
